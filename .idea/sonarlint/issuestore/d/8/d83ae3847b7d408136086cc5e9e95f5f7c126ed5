@@ -1,0 +1,11 @@
+
+Rkotlin:S1172“"-Remove this unused function parameter "args".(ËØÊ¶þÿÿÿÿ8ž¤˜üº1
+Zkotlin:S1172Ú"5Use "_" instead of this unused lambda parameter "ex".(‡•éñùÿÿÿÿ8Ÿ¤˜üº1
+skotlin:S63069"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(Êïÿ”8 ¤˜üº1
+xkotlin:S6306:"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(¨¸‡¼ûÿÿÿÿ8 ¤˜üº1
+Ckotlin:S125•"Remove this commented out code.(ŠúØðûÿÿÿÿ8§¤˜üº1
+”kotlin:S1192´"tDefine a constant instead of duplicating this literal "I forgot my friend's birthday, buying a present now" 4 times.(Æ•¸ú8§¤˜üº1
+qkotlin:S6311“"QRemove this dispatcher. It is pointless when used with only suspending functions.(±Ä€ƒ8«¤˜üº1
+qkotlin:S6311–"QRemove this dispatcher. It is pointless when used with only suspending functions.(±Ä€ƒ8«¤˜üº1
+qkotlin:S6311Ÿ"QRemove this dispatcher. It is pointless when used with only suspending functions.(±Ä€ƒ8«¤˜üº1
+qkotlin:S6311¢"QRemove this dispatcher. It is pointless when used with only suspending functions.(±Ä€ƒ8«¤˜üº1
